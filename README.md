@@ -1,1 +1,1 @@
-# Program-Konversi-Dollar-ke-Rupiah-Algoritma-1
+# Program Konversi Dollar ke Rupiah
